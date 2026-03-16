@@ -1,0 +1,6 @@
+keyboard==0.13.5
+mss==9.0.1
+opencv-python==4.10.0.84
+psutil==6.0.0
+pytesseract==0.3.13
+plyer==2.1.0
